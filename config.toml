@@ -1,5 +1,5 @@
 title = "Homepage"
-baseURL = "https://ashstuff.com/"
+baseURL = "https://ashstuff.github.io/"
 theme = "hugo-resume"
 languageCode = "en-us"
 PygmentsCodeFences = true
